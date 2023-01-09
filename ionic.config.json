@@ -1,0 +1,7 @@
+{
+  "name": "PasseiSenai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
